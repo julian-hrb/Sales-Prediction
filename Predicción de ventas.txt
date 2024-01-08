@@ -1,0 +1,11 @@
+﻿Predicción de ventas
+
+Duración: Una semana
+
+Realizar una predicción de ventas para Enero de 2024 basado en el archivo sales.csv
+
+Reto:
+
+- Escoger el mejor modelo de predicción dada la naturaleza del problema
+- Realizar un visualización de datos que permita mostrar ejecutivamente la predicción
+- Respaldar y justificar por qué la predicción es confiable
